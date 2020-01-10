@@ -2,7 +2,7 @@
 
 
 - [Problem](#problem)
-- [Soultion](#solution)
+- [Solution](#solution)
 - [Hint](#hint)
 - [Extra Credit](#extra-credit)
 - [Resources](#resources)
@@ -37,10 +37,10 @@ freeCoffees(false); // Should return 0;
 freeCoffees(3); // Should return 0;
 ```
 
-Even getting this to work will be a step in the right direction. Now, think about the additional logic you would need to incorporade to make it work with an array of numbers.
+Even getting this to work will be a step in the right direction. Now, think about the additional logic you would need to incorporate to make it work with an array of numbers.
 
 ## <a name="extra-credit"></a> Extra Credit
-What happens if you pass a number greater than 7? Your function will still work, but is it possible to have a Punch card with more than seven punches? What would this mean in the context of an actual coffee shop and what would you expect your function to return in this case?
+What happens if you pass a number greater than 7? Your function will still work, but is it possible to have a punch card with more than seven punches? What would this mean in the context of an actual coffee shop and what would you expect your function to return in this case?
 
 ## <a name="resources"></a> Resources
 
