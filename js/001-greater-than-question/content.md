@@ -34,16 +34,16 @@ checkGreaterValue(NaN,true); //Should return null;
 
 ```
 
-#### TODO - REPL
+#### REPL
 
-<iframe height="400px" width="100%" src="https://repl.it/@ricklopez/001-greater-than-question?lite=true" scrolling="no" frameborder="no" allowtransparency="true" allowfullscreen="true" sandbox="allow-forms allow-pointer-lock allow-popups allow-same-origin allow-scripts allow-modals"></iframe>
+[Try It Out Here:](https://repl.it/@ricklopez/001-greater-than-question")
 
 
 ## <a name="solution"></a> Solution
 
-#### TODO - REPL
-<iframe height="400px" width="100%" src="https://repl.it/@ricklopez/001-greater-than-solution?lite=true" scrolling="no" frameborder="no" allowtransparency="true" allowfullscreen="true" sandbox="allow-forms allow-pointer-lock allow-popups allow-same-origin allow-scripts allow-modals"></iframe>
+#### REPL
+[Try It Out Here:](https://repl.it/@ricklopez/001-greater-than-solution")
 
-#### TODO - Video Walk Through
+#### Video Walk Through
 
 
