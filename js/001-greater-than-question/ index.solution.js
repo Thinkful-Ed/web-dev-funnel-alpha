@@ -1,6 +1,6 @@
 /*
 Below we have a function that determines the greater of two values (valA and valB). 
-Please update the function so that is returns the number 0 when values are equal and null when there is an error.
+Please update the function so that it returns the number 0 when values are equal and null when there is an error.
 
 Examples:
 checkGreaterValue(3,3); //Should return 0

@@ -5,7 +5,7 @@
 - [Solution](#solution)
 ## <a name="problem"></a> Problem
 Below we have a function that determines the greater of two values (valA and valB). 
-Please update the function so that is returns the number 0 when values are equal and null when we pass NaN and true as values.
+Please update the function so that it returns the number 0 when values are equal and null when we pass NaN and true as values.
 
 ```javascript
   function checkGreaterValue(valA, valB) {
@@ -45,5 +45,6 @@ checkGreaterValue(NaN,true); //Should return null;
 [Try It Out Here:](https://repl.it/@ricklopez/001-greater-than-solution")
 
 #### Video Walk Through
+[Watch Video Solution](https://www.dropbox.com/s/dau2j4zqinirn8d/001-greater-than-solution.mp4?dl=0)
 
 
