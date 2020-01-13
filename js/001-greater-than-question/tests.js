@@ -1,4 +1,4 @@
-const checkGreaterValue = require('./index');
+const solution = require('./solution');
 
 test('checkGreaterValue function is defined', () => {
   expect(typeof checkGreaterValue).toEqual('function');

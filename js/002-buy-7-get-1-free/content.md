@@ -16,14 +16,15 @@ Write a function to figure out how many free coffees you've earned from your col
 ```
 freeCoffees([5, 4, 7]); // Should return 2
 freeCoffees([1, 1, 1, 2]); // Should return 0;
-freeCoffees([2, false, "string", 7, 6]); // Should return 2;
+freeCoffees([2, null, null, 7, 6]); // Should return 2;
 ```
 
-#### TODO - REPL
-
+#### REPL
+[Try It OUr Here](https://repl.it/@ricklopez/002-Free-Coffee-Total-question)
 ## <a name="solution"></a> Solution
 
-#### TODO - REPL
+#### REPL
+[Try It Out Here](https://repl.it/@ricklopez/002-Free-Coffee-Total-solution)
 
 #### TODO - Video
 
