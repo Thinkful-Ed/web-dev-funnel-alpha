@@ -36,13 +36,13 @@ checkGreaterValue(NaN,true); //Should return null;
 
 #### REPL
 
-[Try It Out Here:](https://repl.it/@ricklopez/001-greater-than-question")
+[Try It Out Here:](https://repl.it/@ricklopez/001-greater-than-question)
 
 
 ## <a name="solution"></a> Solution
 
 #### REPL
-[Try It Out Here:](https://repl.it/@ricklopez/001-greater-than-solution")
+[Try It Out Here:](https://repl.it/@ricklopez/001-greater-than-solution)
 
 #### Video Walk Through
 [Watch Video Solution](https://www.dropbox.com/s/dau2j4zqinirn8d/001-greater-than-solution.mp4?dl=0)
