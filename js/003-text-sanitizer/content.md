@@ -7,9 +7,9 @@
 - [Resources](#resources)
 
 ## <a name="problem"></a> Problem
-The internet can be a very negative place sometimes. Write a function that will help make the text that appears on a web page a little more positive. It should look for a given word within a text string and replace it with another word of your choosing.
+The internet can be a negative place sometimes. Write a function that will help make the text that appears on a web page a little more positive. It should look for a given word within a text string and replace it with another word of your choosing.
 
-The function should take 3 arguments: a text string, a string to look for within that string, and a string to replace that word with
+The function should take 3 arguments: a text string, a string to look for within that string, and a string to replace that word with.
 
 ### Examples
 ```

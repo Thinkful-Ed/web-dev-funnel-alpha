@@ -1,5 +1,5 @@
-const getFreeCoffeesTotal = require('./solution');
+const freeCoffees = require('./solution');
 
-test('getFreeCoffeesTotal function is defined', () => {
-  expect(typeof getFreeCoffeesTotal).toEqual('function');
+test('freeCoffees function is defined', () => {
+  expect(typeof freeCoffees).toEqual('function');
 });

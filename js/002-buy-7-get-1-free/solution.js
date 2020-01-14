@@ -10,10 +10,10 @@ Write a function to figure out how many free coffees you've earned
 from your collection of punch cards. It should accept one argument - 
 an array of numbers with each number representing the number of 
 punches each card has.
-
 */
 
-function getFreeCoffeesTotal(punches) {
+
+function freeCoffees(punches) {
   
   let totalPunches = 0;
   
@@ -21,9 +21,9 @@ function getFreeCoffeesTotal(punches) {
     totalPunches = totalPunches + punches[i];
   }
   
-  return totalPunches;
+  return Math.floor(totalPunches/7);
 }
 
 
 
-module.exports = getFreeCoffeesTotal;
+module.exports = freeCoffees;
