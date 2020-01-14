@@ -20,7 +20,7 @@ freeCoffees([2, null, null, 7, 6]); // Should return 2;
 ```
 
 #### REPL
-[Try It OUr Here](https://repl.it/@ricklopez/002-Free-Coffee-Total-question)
+[Try It Out Here](https://repl.it/@ricklopez/002-Free-Coffee-Total-question)
 ## <a name="solution"></a> Solution
 
 #### REPL
